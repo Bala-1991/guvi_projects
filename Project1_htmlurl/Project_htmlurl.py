@@ -1,5 +1,3 @@
-
-
 import requests
 
 # GitHub API URL for issues in the pandas repository
